@@ -1,10 +1,10 @@
 {
   "data": [
 {
-      "admob_interstitial":"/21753324030,22780729941/com.allac.acremote.acremotecontrol_Interstitial",
-      "admob_native":"/21753324030,22780729941/com.allac.acremote.acremotecontrol_Native",
-      "admob_banner":"/21753324030,22780729941/com.allac.acremote.acremotecontrol_Banner",
-      "admob_appopen":"/21753324030,22780729941/com.allac.acremote.acremotecontrol_AppOpen",
+      "admob_interstitial":"ca-app-pub-1848739877572166/7404591267",
+      "admob_native":"ca-app-pub-1848739877572166/9736624029",
+      "admob_banner":"ca-app-pub-1848739877572166/3362787367",
+      "admob_appopen":"ca-app-pub-1848739877572166/4061625519",
       "ispurchaseItem":"1"
 }
 ]
